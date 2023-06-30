@@ -1,2 +1,2 @@
-# beginner
-"practice  git and github"
+# For myself
+"Everything goes smoothly and there are no mistakes"
